@@ -1,4 +1,3 @@
 # aws1
 this is a test case
-	
-	trying to use push command 
+ trying to use push command 
